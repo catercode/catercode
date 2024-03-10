@@ -41,4 +41,8 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
+ <h3 align="left" background-color="teal">State Management:</h3> <br />
+ 
+ <a href="https://riverpod.dev/" target="_blank"> <img src="https://github.com/catercode/catercode/assets/47371898/91eb4a7b-1841-47a5-9742-e0f176ac4ebe" alt="firebase" width="60" height="60"/> </a> <a href="https://bloclibrary.dev/" target="_blank"> <img src="https://github.com/catercode/catercode/assets/47371898/4152f732-33cd-45c5-9434-56b6d27fe777" alt="mysql" width="80" height="80"/> </a> 
+
 
