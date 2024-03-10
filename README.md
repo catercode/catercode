@@ -1,6 +1,7 @@
-<img src="https://user-images.githubusercontent.com/49689322/138338797-778b9d82-9650-4994-af25-e46a768e1bdd.gif" with="250" height="240" align="right"/>
+
 <h1>Hi :wave:, I'm Bawah Abdul Malik</h1>
-<h4>A passionate Software Engineer who builds mobile, web, desktop and backend services &</h4>
+<h4>As an experienced Flutter developer, I specialize in leveraging the full potential of Flutter's framework and its latest features. My expertise lies in advanced state management, custom widget creation, and performance optimization. I excel in integrating and optimizing backend services, utilizing Firebase for real-time operations and back4app. With a solid grasp of asynchronous programming, I ensure seamless application performance. My familiarity with REST APIs allows me to seamlessly integrate backend solutions. I bring extensive experience in Agile methodologies and possess a robust understanding of the software development life cycle. My track record demonstrates proven problem-solving skills and a focus on innovative solutions.
+</h4>
 <h4> Mentoring Tech startups and teaches programming language from Ghana.</h4>
 - :speech_balloon: **Python, VB.NET, FlutterFlow, Dart, Flutter, NodeJs and others**
 - :mailbox: **catercode00@gmail.com**
