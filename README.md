@@ -36,6 +36,8 @@
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+ <a href="https://codemagic.io" target="_blank"> <img src="https://github.com/catercode/catercode/assets/47371898/f97be1a0-b9c9-48ae-b29e-594b09fe5030" alt="codemagic" width="40" height="40"/> </a>
+
 
 <h3 align="left" background-color="teal">Services: Databases:</h3> <br />
 
